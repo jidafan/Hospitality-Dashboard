@@ -12,8 +12,9 @@ In this project, we will use PowerBI to create a dashboard using data from AtliQ
 
 ## Data Review
 
-The data contains information regarding various hotels that are owned by AtliQ. The information pertains to the booking, occupancy, revenue and other such metrics. The data can be viewed [here](https://github.com/jidafan/Hospitality-Dashboard/tree/main/Input%20Files)
+The data contains information regarding various hotels that are owned by AtliQ. The information pertains to the booking, occupancy, revenue and other such metrics. The data can be viewed [here](https://github.com/jidafan/Hospitality-Dashboard/tree/main/Input%20Files).
 
 ## PowerBI Dashboard
+
 
 ## Conclusion
