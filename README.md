@@ -18,7 +18,7 @@ The data contains information regarding various hotels that are owned by AtliQ. 
 
 ![image](https://github.com/jidafan/Hospitality-Dashboard/assets/141703009/04996c96-f222-407b-853a-2f1686d3b842)
 
-The dashboard allows the user to filter by City, Room Type, Hotel, Month and Week. It provides information on the revenue, occupancy and bookings differences between the weekend and the weekday. Furthermore, it provides information on many key metrics that stakeholders would be interested in.
+The dashboard allows the user to filter by City, Room Type, Hotel, Month and Week. It provides information on the revenue, occupancy and bookings differences between the weekend and the weekday. Furthermore, it provides information on many key metrics that stakeholders would be interested in. The variables used were created by utilizing dax in powerBI.
 
 | Variable      | Description           | 
 | ------------- |:---------------------| 
@@ -32,4 +32,12 @@ The dashboard allows the user to filter by City, Room Type, Hotel, Month and Wee
 | `No Show%`     | The percentage of the bookings where the guest never checked in      |   
 | `DBRN` | Average amount of rooms that are booked over a time period                 |
 | `DURN` | Average amount of rooms that are utilized by the guests over a time period          |
+
 ## Conclusion
+
+### Insights Gathered 
+
+* Mumbai generates the highest revenue, which is followed by Bangalore, Hyderabad, and Delhi
+* Atliq Seasons is probably proportionally worse than all other hotels.
+* Elite room types contribute the most to the revenue, and possess the 2nd highest occupancy rate.
+* Other platforms contribute to the majority of the bookings at the hotels and should be investigated.
