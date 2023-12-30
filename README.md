@@ -16,7 +16,9 @@ The data contains information regarding various hotels that are owned by AtliQ. 
 
 ## PowerBI Dashboard
 
-![image](https://github.com/jidafan/Hospitality-Dashboard/assets/141703009/04996c96-f222-407b-853a-2f1686d3b842)
+![image](https://github.com/jidafan/Hospitality-Dashboard/assets/141703009/c7712d16-a34b-4cef-8de1-5cebc1808113)
+
+
 
 The dashboard allows the user to filter by City, Room Type, Hotel, Month and Week. It provides information on the revenue, occupancy and bookings differences between the weekend and the weekday. Furthermore, it provides information on many key metrics that stakeholders would be interested in. The variables used were created by utilizing dax in powerBI.
 
